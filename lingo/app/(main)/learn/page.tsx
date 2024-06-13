@@ -3,7 +3,7 @@ const LearnPage = () => {
         <div>
             Learn Page
         </div>
-    );;
+    );
 }
 
 export default LearnPage;
